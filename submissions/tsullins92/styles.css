@@ -1,0 +1,33 @@
+
+
+/*My own styles*/
+body{
+    background-color:LightGreen;
+    margin:0;
+    padding:0;
+}
+
+article{
+    top:0px;
+    text-align:center;
+    margin-top:-20;
+    padding:0;
+    width:100%;
+    background-image:url("https://pixabay.com/static/uploads/photo/2013/08/28/11/47/green-leaf-176722_960_720.jpg");
+}
+
+main{
+    margin:1%;
+}
+
+
+.reactor_pic{
+float:left;
+margin:0% 5% 0% .5%;
+width:15%;
+font-size:.6em;
+}
+
+.reactor_pic_link{
+    word-break:break-all;
+}
